@@ -1,0 +1,33 @@
+body {
+    font-family: arial;
+    background-color: rgb(9, 216, 88);
+    background-image: url(images.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 500px;
+}
+
+h1 {
+    font-size: 150px;
+    text-align: center;
+    color: rgb(26, 5, 145);
+    font-variant: small-caps;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+p {
+    color: grey;
+    line-height: 1.6em;
+    text-transform: capitalize;
+    font-family: Georgia, serif;
+    line-height: 50px;
+    text-indent: 100px;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+}
+
+a {
+    text-decoration: line-through;
+}
